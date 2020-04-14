@@ -9,11 +9,11 @@ table { border: 2px solid black;
         }
         th{
           background-color: lightgray;
-          padding: 20px;
+          padding: 12px;
           color: navy;
         }
         th , td { border: 1px solid black;
          font-family: Arial, calibri;
-         font-size: 20px;
+         font-size: 10px;
          text-align: center;
         }
