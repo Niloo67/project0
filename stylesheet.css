@@ -3,10 +3,8 @@
                     content: "Hello, World!";
                 }
                 .Travelpages h3{
-                  content: "Different Types of Travel";
-                }
+                  content: "Different Travel Types";
             }
-
             @media (max-width: 499px) {
                 h1::before {
                     content: "Hello!";
@@ -17,7 +15,7 @@
             }
 .Travelpages {
   padding: 10px;
-  text-align: justify;
+  text-align: left;
 }
 h1, h3 {
     padding: 10px;
