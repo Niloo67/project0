@@ -3,6 +3,7 @@
 }
 
 h1, h3 {
+    padding: 10px;
     font-weight: bold;
 }
 table {   margin: auto;
