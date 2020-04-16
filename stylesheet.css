@@ -1,8 +1,18 @@
+@media (min-width: 500px) {
+                h1::before {
+                    content: "Welcome to My Web Page!";
+                }
+            }
+
+            @media (max-width: 499px) {
+                h1::before {
+                    content: "Welcome!";
+                }
+            }
 .pages {
   padding-left: 10px;
 
 }
-
 h1, h3 {
     padding: 10px;
     font-weight: bold;
