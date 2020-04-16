@@ -2,14 +2,20 @@
                 h1::before {
                     content: "Hello, World!";
                 }
+                .travelpages h1::before {
+                  content: "Different Types of Travel";
+                }
             }
 
             @media (max-width: 499px) {
                 h1::before {
                     content: "Hello!";
                 }
+                .travelpages h1::before {
+                  content: "Travel Types";
+                }
             }
-.pages {
+.Travelpages {
   padding-left: 10px;
 
 }
@@ -23,7 +29,7 @@ table {   margin-left: 30px;
           border: 5px solid black;
           border-collapse: collapse;
           text-align: center;
-          width: 60%;
+          width: 55%;
         }
         th{
           background-color: lightgray;
