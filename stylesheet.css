@@ -2,7 +2,7 @@
                 h1::before {
                     content: "Hello, World!";
                 }
-                .travelpages h1::before {
+                .Travelpages h1::before {
                   content: "Different Types of Travel";
                 }
             }
@@ -11,13 +11,13 @@
                 h1::before {
                     content: "Hello!";
                 }
-                .travelpages h1::before {
+                .Travelpages h1::before {
                   content: "Travel Types";
                 }
             }
 .Travelpages {
   padding-left: 10px;
-
+  text-align: center;
 }
 h1, h3 {
     padding: 10px;
