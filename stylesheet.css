@@ -3,9 +3,10 @@
                 h1::before {
                     content: "Hello, World!";
                 }
-                .Travelpages h3{
-                  content: "Different Travel Types";
-            }
+              }
+              .Travelpages h3{
+                content: "Different Travel Types";
+              }
           }
             @media (max-width: 499px) {
                 h1::before {
