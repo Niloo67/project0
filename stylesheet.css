@@ -9,11 +9,13 @@
             }
           }
 #Travelpages {
-  padding: 15px;
+  padding: 10px;
+  margin: 20px;
   text-align: auto;
 }
 #Travelpages li{
-  padding: 20px;
+  padding: 10px;
+  margin: 20px;
   text-align: inherit;
 }
 h1, h3 {
