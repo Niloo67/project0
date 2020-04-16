@@ -7,9 +7,7 @@ h1, h3 {
     padding: 10px;
     font-weight: bold;
 }
-table > p{
-  padding-left: 15px;
-}
+
 table {   margin-left: auto;
           padding: 10px;
           border: 5px solid black;
