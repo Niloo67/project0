@@ -11,7 +11,7 @@
 .container {
   padding: 5px;
 }
-a {
+a[href^="index.html"] {
   text-align: center;
   font-style: italic;
   font-family: verdana;
