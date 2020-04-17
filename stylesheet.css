@@ -22,7 +22,8 @@ a {
   margin: 20px;
   text-align: auto;
 }
-#Travelpages li a{
+#Travelpages li >a{
+  font-style: normal;
   padding: 5px;
   margin: 10px;
   text-align: inherit;
@@ -31,12 +32,12 @@ h1, h3 {
     padding: 10px;
     font-weight: bold;
 }
-table {   margin: 10px;
-          padding: 10px;
-          border: 5px solid black;
-          border-collapse: collapse;
-          text-align: center;
-          width: 30%;
+table {margin: 10px;
+       padding: 10px;
+       border: 5px solid black;
+       border-collapse: collapse;
+       text-align: center;
+       width: 30%;
         }
         th{
           background-color: lightgray;
