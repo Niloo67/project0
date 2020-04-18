@@ -7,6 +7,19 @@ $px: 5px;
     font-size: 14px;
     color: $color;
 }
+nav {
+  ul {
+    margin: 5px;
+    padding: 10px;
+    list-style: circle;
+  }
+  li { display: inline-block; }
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
 .grid {
               background-color: $backcolor;
               display: grid;
