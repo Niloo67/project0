@@ -36,13 +36,12 @@ h1, h3 {
     padding: 10px;
     font-weight: bold;
 }
-table {margin: 5px;
+table {margin: 1px;
        padding: 10px;
        border: 5px solid black;
        border-collapse: collapse;
        text-align: center;
        width: 30%;
-       margin-right: 10%;
         }
         th{
           background-color: lightgray;
