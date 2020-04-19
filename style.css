@@ -3,8 +3,7 @@
   display: grid;
   padding: 5px;
   grid-column-gap: 5px;
-  grid-row-gap: 5px;
-  grid-template-columns: auto auto auto; }
+  grid-row-gap: 5px; }
 
 .grid-item > div {
   background-color: white;
