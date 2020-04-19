@@ -21,6 +21,8 @@ Allincluse.html:
 using bootstrap. no stylesheet. paragraphs and margined image at 50% and writing under in navy. navigation links in form of button with spacing at the bottom of page with home button under. they are different colors.
 hover over h5 to teal color.
 
+buttons are in italic unlike other pages.
+
 Cruise.html:
 viewport to adjust to width of device.
 bootstrap and style.css used after using scss file that changed into css.
