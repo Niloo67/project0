@@ -3,7 +3,7 @@ $color: "#272cc2";
 $backcolor: Teal;
 $bgcolor: white;
 $px: 5px;
-.grid > div {
+.grid {
               background-color: $backcolor;
               display: grid;
               padding: $px;
@@ -11,7 +11,7 @@ $px: 5px;
               grid-row-gap: $px;
               grid-template-columns: auto auto auto;
           }
-.grid-item > div{
+.grid-item {
               background-color: $bgcolor;
               font-size: 20px;
               padding: 15px;
