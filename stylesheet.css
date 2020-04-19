@@ -8,6 +8,11 @@
                     content: "Hello!";
             }
           }
+  .Travelpages ul {
+              padding: 5px;
+              font-size: 14px;
+              color: "#272cc2";
+          }
 .container {
   padding: 5px;
 }

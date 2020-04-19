@@ -1,19 +1,13 @@
 
-@import "node_modules/bootstrap/scss/bootstrap";
 $color: "#272cc2";
 $backcolor: Teal;
 $bgcolor: white;
 $px: 5px;
-.Travelpages ul {
-    padding: 5px;
-    font-size: 14px;
-    color: $color;
-}
+
 nav {
   ul {
-    margin: 5px;
+    margin: $px;
     padding: 10px;
-    list-style: circle;
   }
   li { display: inline-block; }
   a {
