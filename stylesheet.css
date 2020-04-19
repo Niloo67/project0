@@ -29,7 +29,7 @@
   margin: 10px;
   text-align: inherit;
 }
-#Travelpages a:hover{
+#Travelpages>a:hover{
   background-color: "#b8f5e1";
 }
 h1, h3 {
@@ -53,3 +53,4 @@ table {margin: 1px;
          font-size: 22px;
          text-align: center;
         }
+  .nav a{margin: 3px;}
