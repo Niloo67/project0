@@ -7,3 +7,9 @@
                 h1::before {
                     content: "Multi-destination";
             }
+            a[href^="index.html"] {
+              text-align: center;
+              font-style: italic;
+              font-family: verdana;
+              font-size-adjust: auto;
+            }

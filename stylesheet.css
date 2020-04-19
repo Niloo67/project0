@@ -16,12 +16,7 @@
 .container {
   padding: 5px;
 }
-a[href^="index.html"] {
-  text-align: center;
-  font-style: italic;
-  font-family: verdana;
-  font-size-adjust: auto;
-}
+
 #Travelpages {
   list-style-position: inside;
   padding: 10px;
