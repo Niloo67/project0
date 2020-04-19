@@ -20,12 +20,12 @@ div, h4 {
   margin: 20px; }
 
 .success {
-  background-color: green; }
+  background-color: "#66ff66"; }
 
 .warning {
   background-color: orange; }
 
 .error {
-  background-color: red; }
+  background-color: "#ff5050"; }
 
 /*# sourceMappingURL=style.css.map */
