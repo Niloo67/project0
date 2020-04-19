@@ -29,7 +29,7 @@ div, h4 {
 
    .success {
        @extend %message;
-       background-color: "#66ff66";
+       background-color: lightgreen;
    }
 
    .warning {
@@ -39,5 +39,5 @@ div, h4 {
 
    .error {
        @extend %message;
-       background-color: "#ff5050";
+       background-color: red;
    }
