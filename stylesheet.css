@@ -29,7 +29,7 @@
   margin: 10px;
   text-align: inherit;
 }
-#Travelpages>a:hover{
+a.#Travelpages:hover{
   background-color: "#b8f5e1";
 }
 h1, h3 {
