@@ -1,0 +1,31 @@
+nav ul {
+  margin: 5px;
+  padding: 10px; }
+nav li {
+  display: inline-block; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  margin: 3px; }
+
+div, h4 {
+  padding: 10px; }
+
+.success, .warning, .error {
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px; }
+
+.success {
+  background-color: green; }
+
+.warning {
+  background-color: orange; }
+
+.error {
+  background-color: red; }
+
+/*# sourceMappingURL=style.css.map */

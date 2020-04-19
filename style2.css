@@ -1,0 +1,9 @@
+@media (min-width: 500px){
+                h1::before {
+                    content: "Multi-destination/Self planned Vacations";
+                }
+          }
+@media (max-width: 499px) {
+                h1::before {
+                    content: "Multi-destination";
+            }
