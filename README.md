@@ -28,7 +28,9 @@ bootstrap and style.css used after using scss file that changed into css.
 in scss file there is variables used for pixels, colors.
 used inheritance for the travel months where font-size, style weight border padding n margin are the same for all 3 but the background color is different
 
-
+There is a grid that has a background color with grid template column (for all 3)
+automatically fit them. the grid column gaps are also set.
+buttons at buttom like other pages
 
 
 multidestination.html:
