@@ -20,7 +20,7 @@ Allincluse.html:
 
 using bootstrap. no stylesheet. paragraphs and margined image at 50% and writing under in navy. navigation links in form of button with spacing at the bottom of page with home button under. they are different colors.
 hover over h5 to teal color.
-
+all inclusive grid with responsive column display
 buttons are in italic unlike other pages.
 
 Cruise.html:
