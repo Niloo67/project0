@@ -5,7 +5,7 @@ viewport to adjust to width of device.
 bootstrap and stylesheet.css used
 
 stylesheet.css: has mobile-responsive @media to change the main h1 from Hello, world! to hello! when using mobile(or anything with a width smaller than 500px)
-CSS Selectors : #travelpages , .container, h1::before (inserts text before content of each h1); h1,h3 (both element same style); #travelpage:hover (when u hover over color changes)
+CSS Selectors : #travelpages , .container, h1::before (inserts text before content of each h1); h1,h3 (both element same style);
 
 The id Travelpages is only used once and that is why is it an id. It is the whole unordered list. it contains the contents of travel type which are also links connecting to allinclusive.html ,cruise.html &multidestination.html.
 it has padding ,a specific font size and color.
@@ -32,8 +32,9 @@ used inheritance for the travel months where font-size, style weight border padd
 
 There is a grid that has a background color with grid template column (for all 3)
 automatically fit them. the grid column gaps are also set.
-buttons at buttom like other pages
+buttons at bottom like other pages
 
 
 multidestination.html:
-bootstap , nav bar with links on top. 2 paragraphs, a picture. buttons to other pages without spacing and home button. different color backgrounds
+bootstrap , nav bar with links on top. has mobile-responsive @media for h1.
+2 paragraphs, a picture. buttons to other pages without spacing and home button. different color backgrounds
